@@ -3,6 +3,7 @@ module github.com/graphcareful/sarama
 go 1.13
 
 require (
+	github.com/graphcareful/sarama v1.27.2
 	github.com/Shopify/toxiproxy v2.1.4+incompatible
 	github.com/davecgh/go-spew v1.1.1
 	github.com/eapache/go-resiliency v1.2.0

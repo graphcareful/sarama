@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/Shopify/sarama"
+	"github.com/graphcareful/sarama"
 )
 
 func TestMockConsumerImplementsConsumerInterface(t *testing.T) {

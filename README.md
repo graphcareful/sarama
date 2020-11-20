@@ -1,6 +1,6 @@
 # sarama
 
-[![GoDoc](https://godoc.org/github.com/Shopify/sarama?status.svg)](https://pkg.go.dev/github.com/Shopify/sarama)
+[![GoDoc](https://godoc.org/github.com/graphcareful/sarama?status.svg)](https://pkg.go.dev/github.com/graphcareful/sarama)
 [![Build Status](https://travis-ci.org/Shopify/sarama.svg?branch=master)](https://travis-ci.org/Shopify/sarama)
 [![Coverage](https://codecov.io/gh/Shopify/sarama/branch/master/graph/badge.svg)](https://codecov.io/gh/Shopify/sarama)
 
@@ -8,12 +8,12 @@ Sarama is an MIT-licensed Go client library for [Apache Kafka](https://kafka.apa
 
 ## Getting started
 
-- API documentation and examples are available via [godoc](https://godoc.org/github.com/Shopify/sarama).
+- API documentation and examples are available via [godoc](https://godoc.org/github.com/graphcareful/sarama).
 - Mocks for testing are available in the [mocks](./mocks) subpackage.
 - The [examples](./examples) directory contains more elaborate example applications.
 - The [tools](./tools) directory contains command line tools that can be useful for testing, diagnostics, and instrumentation.
 
-You might also want to look at the [Frequently Asked Questions](https://github.com/Shopify/sarama/wiki/Frequently-Asked-Questions).
+You might also want to look at the [Frequently Asked Questions](https://github.com/graphcareful/sarama/wiki/Frequently-Asked-Questions).
 
 ## Compatibility and API stability
 
@@ -29,8 +29,8 @@ A changelog is available [here](CHANGELOG.md).
 
 ## Contributing
 
-- Get started by checking our [contribution guidelines](https://github.com/Shopify/sarama/blob/master/.github/CONTRIBUTING.md).
-- Read the [Sarama wiki](https://github.com/Shopify/sarama/wiki) for more technical and design details.
+- Get started by checking our [contribution guidelines](https://github.com/graphcareful/sarama/blob/master/.github/CONTRIBUTING.md).
+- Read the [Sarama wiki](https://github.com/graphcareful/sarama/wiki) for more technical and design details.
 - The [Kafka Protocol Specification](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol) contains a wealth of useful information.
 - For more general issues, there is [a google group](https://groups.google.com/forum/#!forum/kafka-clients) for Kafka client developers.
 - If you have any questions, just ask!

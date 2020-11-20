@@ -1,7 +1,7 @@
-module github.com/Shopify/sarama/examples/consumer
+module github.com/graphcareful/sarama/examples/consumer
 
 go 1.15
 
-replace github.com/Shopify/sarama => ../../
+replace github.com/graphcareful/sarama => ../../
 
-require github.com/Shopify/sarama v1.27.0
+require github.com/graphcareful/sarama v1.27.0
